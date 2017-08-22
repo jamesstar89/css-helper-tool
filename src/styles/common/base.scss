@@ -1,0 +1,25 @@
+$background: #28172d;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: $background;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  overflow: hidden;
+  margin: 0;
+  font-family: arial;
+  font-size: 12px;
+  color: white;
+}
+
+div, p, a, span {
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+img {
+  max-width: 100%;
+}
